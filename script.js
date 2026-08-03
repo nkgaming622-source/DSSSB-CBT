@@ -1,0 +1,1 @@
+alert("Welcome to DSSSB Mock Test Portal!");
